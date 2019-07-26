@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Resume/static/css/main.b17172e0.chunk.css",
+    "main.js": "/Resume/static/js/main.02e3997c.chunk.js",
+    "main.js.map": "/Resume/static/js/main.02e3997c.chunk.js.map",
+    "runtime~main.js": "/Resume/static/js/runtime~main.e4c3d92c.js",
+    "runtime~main.js.map": "/Resume/static/js/runtime~main.e4c3d92c.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/Resume/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.b28a4531.chunk.js": "/Resume/static/js/2.b28a4531.chunk.js",
+    "static/js/2.b28a4531.chunk.js.map": "/Resume/static/js/2.b28a4531.chunk.js.map",
+    "index.html": "/Resume/index.html",
+    "precache-manifest.885e9088af105550e4a0b7772e396066.js": "/Resume/precache-manifest.885e9088af105550e4a0b7772e396066.js",
+    "service-worker.js": "/Resume/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/Resume/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.b17172e0.chunk.css.map": "/Resume/static/css/main.b17172e0.chunk.css.map",
+    "static/media/C++.png": "/Resume/static/media/C++.7c6c430f.png",
+    "static/media/Dashboard.png": "/Resume/static/media/Dashboard.a46ff488.png",
+    "static/media/Home.jpg": "/Resume/static/media/Home.3c9690ff.jpg",
+    "static/media/Java.png": "/Resume/static/media/Java.e9160368.png",
+    "static/media/MS-Office.png": "/Resume/static/media/MS-Office.81aadf3f.png",
+    "static/media/MySql,Postgres.png": "/Resume/static/media/MySql,Postgres.4d05c5e7.png",
+    "static/media/OTP.png": "/Resume/static/media/OTP.ea7a0952.png",
+    "static/media/Portal.png": "/Resume/static/media/Portal.90696eb4.png",
+    "static/media/Virtual.png": "/Resume/static/media/Virtual.d8885a52.png",
+    "static/media/WebApp.png": "/Resume/static/media/WebApp.b5ca3631.png",
+    "static/media/App.css": "/Resume/static/media/humanoidstraight-webfont.46f1afea.woff2",
+    "static/media/img.jpg": "/Resume/static/media/img.373f259d.jpg",
+    "static/media/leftArrow.png": "/Resume/static/media/leftArrow.439240d5.png",
+    "static/media/php.png": "/Resume/static/media/php.1fa57934.png"
+  }
+}
