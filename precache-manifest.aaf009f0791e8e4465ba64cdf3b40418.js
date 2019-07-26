@@ -1,27 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be978d5c0e714456a5a44a7b21a9e161",
+    "revision": "4ba0a3b00ad33fb44fe70e22cc935a82",
     "url": "/Resume/index.html"
   },
   {
-    "revision": "9e66e2ee0d24289d8f11",
+    "revision": "dd2e7b551b783e7c62ec",
     "url": "/Resume/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "b6b421477da6bbb49cab",
-    "url": "/Resume/static/css/main.b17172e0.chunk.css"
+    "revision": "36e834fdd8f7b2ce17d2",
+    "url": "/Resume/static/css/main.13073671.chunk.css"
   },
   {
-    "revision": "9e66e2ee0d24289d8f11",
-    "url": "/Resume/static/js/2.b28a4531.chunk.js"
+    "revision": "dd2e7b551b783e7c62ec",
+    "url": "/Resume/static/js/2.4e446f39.chunk.js"
   },
   {
-    "revision": "b6b421477da6bbb49cab",
-    "url": "/Resume/static/js/main.02e3997c.chunk.js"
+    "revision": "36e834fdd8f7b2ce17d2",
+    "url": "/Resume/static/js/main.0a8c5203.chunk.js"
   },
   {
     "revision": "8141172dac4ae8b617bb",
     "url": "/Resume/static/js/runtime~main.e4c3d92c.js"
+  },
+  {
+    "revision": "7c6aeae75558490535ecf40440cd115d",
+    "url": "/Resume/static/media/1CR16CS116_1.7c6aeae7.jpg"
+  },
+  {
+    "revision": "f248b572ee13bb160b69617b28439907",
+    "url": "/Resume/static/media/1CR16CS116_2.f248b572.jpg"
+  },
+  {
+    "revision": "cfc7dfcac3d61b8ffc524380d806fac2",
+    "url": "/Resume/static/media/1CR16CS116_7.cfc7dfca.jpg"
   },
   {
     "revision": "7c6c430f0d7ffbbf1aeb1d2ff09800f0",
@@ -30,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a46ff488a2d5f806abcc509928400b6f",
     "url": "/Resume/static/media/Dashboard.a46ff488.png"
-  },
-  {
-    "revision": "3c9690ff59139cf9f7976cf94bea3ea5",
-    "url": "/Resume/static/media/Home.3c9690ff.jpg"
   },
   {
     "revision": "e9160368bd4b9071c17b13b0e63648bf",
@@ -56,12 +64,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Resume/static/media/Portal.90696eb4.png"
   },
   {
+    "revision": "db882c569624a34b4cd8a0c368f783ea",
+    "url": "/Resume/static/media/Star.db882c56.png"
+  },
+  {
+    "revision": "99673ab4749c1fb392cbd5b86857c566",
+    "url": "/Resume/static/media/Stars.99673ab4.png"
+  },
+  {
     "revision": "d8885a522885d9a489a597ae910b7a1b",
     "url": "/Resume/static/media/Virtual.d8885a52.png"
   },
   {
     "revision": "b5ca36317a8735169463da56f520f4eb",
     "url": "/Resume/static/media/WebApp.b5ca3631.png"
+  },
+  {
+    "revision": "e945581eb0298e9f0b516c84f0092a09",
+    "url": "/Resume/static/media/certificates_1.e945581e.jpg"
+  },
+  {
+    "revision": "29a489728d0ad21be38a3d974d70a9a5",
+    "url": "/Resume/static/media/certificates_2.29a48972.jpg"
   },
   {
     "revision": "3c9d08c275c1d75922e3c982b2471ddc",
@@ -88,15 +112,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Resume/static/media/humanoidstraight-webfont.46f1afea.woff2"
   },
   {
-    "revision": "373f259d7c18947d4448a348c187dd40",
-    "url": "/Resume/static/media/img.373f259d.jpg"
+    "revision": "25092a3afb02f7eec70c1da04d5093ec",
+    "url": "/Resume/static/media/inconsolata-bold-webfont.25092a3a.woff"
   },
   {
-    "revision": "439240d566f56d296fe4a80f8c594730",
-    "url": "/Resume/static/media/leftArrow.439240d5.png"
+    "revision": "76bebfc0fb645db5b6a887087e1d1afc",
+    "url": "/Resume/static/media/inconsolata-bold-webfont.76bebfc0.woff2"
+  },
+  {
+    "revision": "734df373ef95a5400aeda91c72dcecf9",
+    "url": "/Resume/static/media/inconsolata-regular-webfont.734df373.woff"
+  },
+  {
+    "revision": "e9b7449a56ae6eeb627fb5989633ee2a",
+    "url": "/Resume/static/media/inconsolata-regular-webfont.e9b7449a.woff2"
   },
   {
     "revision": "1fa579341355e910cf0666988585b332",
     "url": "/Resume/static/media/php.1fa57934.png"
+  },
+  {
+    "revision": "f5dda4905a8201ecca2a5a38e42115dc",
+    "url": "/Resume/static/media/pradeep.f5dda490.jpg"
   }
 ]);
